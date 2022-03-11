@@ -16,16 +16,25 @@ Items iteration
 Sample Input:
 
 5
+
 Язык Python прекрасен
+
 C# - отличный язык программирования
+
 Stepik - отличная платформа
+
 BEEGEEK FOREVER!
+
 язык Python появился 20 февраля 1991
+
 2
+
 язык
+
 python
 
 Sample Output:
 
 Язык Python прекрасен
+
 язык Python появился 20 февраля 1991
